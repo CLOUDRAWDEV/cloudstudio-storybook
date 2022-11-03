@@ -1,14 +1,15 @@
 # CloudStudio Design System Library
 
-<img src="https://img.shields.io/badge/Version-v1.2.0-206FD6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudSutido Version-v1.2.0-206FD6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/DesignSystem Version-v.2.0.0-206FD6?style=for-the-badge&logoColor=white"/>
 
----
-
+<div>
 <img src="https://img.shields.io/badge/React-v18.2.0-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Next.js-12.2.0-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Storybook-v6.5.13-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+</div>
 
 ---
 

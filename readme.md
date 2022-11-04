@@ -1,7 +1,9 @@
 # CloudStudio Design System Library
 
+<div>
 <img src="https://img.shields.io/badge/CloudSutido Version-v1.2.0-206FD6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/DesignSystem Version-v.2.0.0-206FD6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/DesignSystem Version-v2.0.0-206FD6?style=for-the-badge&logoColor=white"/>
+</div>
 
 <div>
 <img src="https://img.shields.io/badge/React-v18.2.0-61DAFB?style=flat-square&logo=React&logoColor=white"/>
